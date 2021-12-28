@@ -1,0 +1,3 @@
+[submodule "qoi.reference/repo"]
+	path = qoi.reference/repo
+	url = https://github.com/phoboslab/qoi.git
